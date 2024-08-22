@@ -3,7 +3,7 @@ export default function About() {
         <section id="about" className="mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24">
             <div>
                 <p className="mb-4">
-                    Hi! I’m Brian, UC Berkeley alum with a Bachelor's in Computer Science.
+                    Hi! I'm Brian, UC Berkeley alum with a Bachelor's in Computer Science.
                 </p>
                 <p className="mb-4">
                     My time at UC Berkeley provided me with a solid foundation in computer science, while hands-on job experiences further deepened my knowledge and skills. Each project and role taught me valuable lessons and allowed me to apply theoretical concepts in practical, real-world scenarios. And in this time, I realized something.
