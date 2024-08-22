@@ -42,7 +42,7 @@ export default function Header() {
                     <ul className="mt-16 w-max">
                         <li>
                             <a
-                                className={`group flex items-center py-3 ${activeSection === 'about' ? 'active' : ''
+                                className={`group flex items-center py-3 text-slate-200 ${activeSection === 'about' ? 'active' : ''
                                     }`}
                                 href="#about"
                             >
@@ -55,7 +55,7 @@ export default function Header() {
                         </li>
                         <li>
                             <a
-                                className={`group flex items-center py-3 ${activeSection === 'experience' ? 'active' : ''
+                                className={`group flex items-center py-3 text-slate-200 ${activeSection === 'experience' ? 'active' : ''
                                     }`}
                                 href="#experience"
                             >
@@ -68,7 +68,7 @@ export default function Header() {
                         </li>
                         <li>
                             <a
-                                className={`group flex items-center py-3 ${activeSection === 'projects' ? 'active' : ''
+                                className={`group flex items-center py-3 text-slate-200 ${activeSection === 'projects' ? 'active' : ''
                                     }`}
                                 href="#projects"
                             >
