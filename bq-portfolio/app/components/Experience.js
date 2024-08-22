@@ -22,7 +22,7 @@ export default function Experience() {
                                             {/* <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span> */}
                                         </div>
                                     </h3>
-                                    <p className="mt-2 text-sm leading-normal">
+                                    <p className="mt-2 text-sm leading-normal text-slate-200">
                                         • Implemented and optimized web pages for a multi-platform business serving 8000+ users, yielding a 168% increase
                                         in monthly user traffic, using JavaScript, HTML, and CSS.
                                         <br />
@@ -62,7 +62,7 @@ export default function Experience() {
                                             {/* <span class="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span> */}
                                         </div>
                                     </h3>
-                                    <p className="mt-2 text-sm leading-normal">
+                                    <p className="mt-2 text-sm leading-normal text-slate-200">
                                         • Conceptualized and developed an online curriculum and scheduling tool for 100+ courses, using JavaScript, HTML,
                                         and CSS to recommend personalized course schedules for students, assisting users in the course planning pipeline.
                                         <br/>
